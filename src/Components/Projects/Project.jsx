@@ -56,7 +56,7 @@ const vlsiProjects = [
     tech: ['Verilog', 'Vivado', 'Microwind 3.9', 'DSCH'],
     github: 'https://github.com/AnisMulla9740/8_Bit_Booth_Multiplier_using_120nm_scale_technology',
     link: '#',
-    image: 'https://www.google.com/url?sa=i&url=http%3A%2F%2Fvlabs.iitkgp.ac.in%2Fcoa%2Fexp7%2Findex.html&psig=AOvVaw3HcIybv3w9m9QwmgFHOr7J&ust=1746302148088000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMj-n_nHhY0DFQAAAAAdAAAAABAJ',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSzM5Fh7VCZd2XaDoS-6_h6Op0cxsPbY3wGw&s',
     objectPosition: 'center'
   },
   {
