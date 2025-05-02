@@ -95,7 +95,7 @@ export const Home = () => {
           >
             <div className="absolute inset-0 bg-gold-500/20 dark:bg-teal-400/20 blur-3xl rounded-full animate-pulse" />
             <img
-              src="https://sdmntpreastus2.oaiusercontent.com/files/00000000-df38-61f6-856c-0bc7df1ecd30/raw?se=2025-05-01T21%3A30%3A57Z&sp=r&sv=2024-08-04&sr=b&scid=77db06c6-39e1-560f-9e1a-2f15cef44e98&skoid=2f36945c-3adc-4614-ac2b-eced8f672c58&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-01T09%3A44%3A33Z&ske=2025-05-02T09%3A44%3A33Z&sks=b&skv=2024-08-04&sig=WN/4JYfwnHBjtApccdGdIZf0jzzmeCKROWlxyiwlLlw%3D"
+              src="https://media.canva.com/v2/image-resize/format:JPG/height:452/quality:92/uri:ifs%3A%2F%2F%2Fffe33de5-ff8e-41e7-960e-71eaab22f710/watermark:F/width:800?csig=AAAAAAAAAAAAAAAAAAAAABYDaZ1zfPoSnePMWuACy58BVWKbnSKIwr3hyuqdm23n&exp=1746230387&osig=AAAAAAAAAAAAAAAAAAAAAKNL2t-5W1q72U9JtGrq64CjXZNYkJnJetutNk9OSpNn&signer=media-rpc&x-canva-quality=screen"
               alt="Anis Allabaksh Mulla"
               className="w-64 h-64 md:w-96 md:h-96 object-cover rounded-full border-4 border-navy-900/20 dark:border-teal-400/20 hover:border-navy-900/40 dark:hover:border-teal-400/40 transition-all shadow-2xl"
             />
